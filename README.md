@@ -74,7 +74,7 @@ A meaningful commit history shows how we worked together during development.
 
 📄 The full Git log file (`project_log.txt`) is included in the repository.
 
-🔗 **Repository Link:*https://yusufock.github.io/SBTU-WEB-PAGE/* 
+🔗 **Repository Link:*https://github.com/YusufOck/SBTU-WEB-PAGE.git* 
 
 ---
 
